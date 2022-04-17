@@ -1,1 +1,1 @@
-# -dashcrypto-service-discovery
+# dashcrypto-service-discovery
